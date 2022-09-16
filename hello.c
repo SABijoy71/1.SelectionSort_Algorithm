@@ -14,7 +14,7 @@ int main(void){
 	for(i = 0; i < array_size; i++){
 		printf("%d ", a[i]);
 	}
-	pirntf("\n");
+	printf("\n");
 
 	selection_sort(a,array_size);
 
